@@ -9,6 +9,6 @@ The meetup is for both :
 **Experierenced** folks to talk about internals/deep-dive sessions or showcase systems they have designed and built with Erlang/Elixir. 
 
 # Join us @
-  - [Erlang Elixir Bengaluru Telegram channel](https://t.me/joinchat/CLmjB0tZDUJXqJ96iEkHJw)
-  - [Erlang Elixir Bengaluru Meetup](http://meetu.ps/c/41R81/cdtNK/d)
+  - [Bengaluru Telegram channel](https://t.me/joinchat/CLmjB0tZDUJXqJ96iEkHJw)
+  - [Bengaluru Meetup](http://meetu.ps/c/41R81/cdtNK/d)
   - [Elixir India Discord](http://discord.gg/svYQcSe)
