@@ -1,4 +1,4 @@
-## Welcome Erlang/Elixir Bangalore
+## Welcome to Erlang/Elixir Bengaluru
 
 We are working to make an active BEAM communiy in Bengaluru and we are organizing monthly meetups and planning to start hands-on workshops as part of this soon.
 
