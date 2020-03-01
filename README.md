@@ -1,6 +1,6 @@
 ## Welcome to Erlang/Elixir Bengaluru
 
-> ### [RSVP for February meetup here.](http://meetu.ps/e/HGtkD/cdtNK/d)
+> ### [RSVP for March meetup here.](http://meetu.ps/e/HN1cg/cdtNK/d)
 
 
 We are working to make an active BEAM communiy in Bengaluru and we are organizing monthly meetups and planning to start hands-on workshops as part of this soon.
